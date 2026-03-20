@@ -1,0 +1,5 @@
+export const THEMES = {
+  steam: { name: 'Steam', bg: '#0b1220', bg2: '#0f1728', panel: 'rgba(19,29,47,0.84)', panel2: 'rgba(11,18,32,0.92)', text: '#eaf2ff', muted: '#a5b6cf', accent: '#66c0f4', accent2: '#93d7ff', price: '#a4d007', border: 'rgba(255,255,255,0.10)', glow: 'rgba(102,192,244,0.22)', hero: 'linear-gradient(135deg, rgba(102,192,244,0.16), rgba(9,14,26,0.02))' },
+  spotify: { name: 'Spotify', bg: '#121212', bg2: '#0d0d0d', panel: 'rgba(24,24,24,0.88)', panel2: 'rgba(17,17,17,0.94)', text: '#f4f4f4', muted: '#a7a7a7', accent: '#1DB954', accent2: '#4be17d', price: '#1DB954', border: 'rgba(255,255,255,0.09)', glow: 'rgba(29,185,84,0.20)', hero: 'linear-gradient(135deg, rgba(29,185,84,0.18), rgba(0,0,0,0.02))' },
+  neon: { name: 'Neon', bg: '#08111f', bg2: '#070b15', panel: 'rgba(15,24,43,0.84)', panel2: 'rgba(10,16,30,0.92)', text: '#ecf4ff', muted: '#9cb2d0', accent: '#7cdbff', accent2: '#b57cff', price: '#7cffc8', border: 'rgba(255,255,255,0.10)', glow: 'rgba(124,219,255,0.22)', hero: 'linear-gradient(135deg, rgba(124,219,255,0.16), rgba(181,124,255,0.10))' },
+};
